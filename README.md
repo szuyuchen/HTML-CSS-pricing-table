@@ -2,7 +2,7 @@
 
 ### Purpose: 
 
-- Use Bootstrap5 to build a mock up landing page.
+- Use HTML and CSS to build a mock up landing page.
 
 <img src="https://github.com/szuyuchen/HTML-CSS-pricing-table/blob/main/sample%20image.png?raw=true" width=500>
 
